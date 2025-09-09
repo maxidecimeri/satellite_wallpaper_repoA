@@ -1,0 +1,14 @@
+[
+  {
+    "view_name_base": "GOES-19_East_752W_Full_Disk_GeoColor_CIRA",
+    "project_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\projects\\myprojects\\live_goes-19_geo"
+  },
+  {
+    "view_name_base": "GOES-19_East_752W_Full_Disk_Band_13_103_mm_Clean_IR_Longwave_Window",
+    "project_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\projects\\myprojects\\live_goes-19_bi"
+  },
+  {
+    "view_name_base": "GOES-19_East_752W_Full_Disk_Airmass_EUMETSAT",
+    "project_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\projects\\myprojects\\live_goes-19_air"
+  }
+]

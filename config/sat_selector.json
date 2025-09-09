@@ -1,0 +1,18 @@
+{
+  "mode": "manual",   // manual | rotate | rules
+  "active_view": "GOES-19_East_752W_Full_Disk_GeoColor_CIRA",
+
+  "rotate_order": [
+    "GOES-19_East_752W_Full_Disk_GeoColor_CIRA",
+    "GOES-19_East_752W_Full_Disk_Band_13_103_mm_Clean_IR_Longwave_Window",
+    "GOES-19_East_752W_Full_Disk_Airmass_EUMETSAT"
+  ],
+
+  "rules": {
+    "day_view":   "GOES-19_East_752W_Full_Disk_GeoColor_CIRA",
+    "night_view": "GOES-19_East_752W_Full_Disk_Band_13_103_mm_Clean_IR_Longwave_Window",
+    "twilight_view": "GOES-19_East_752W_Full_Disk_Airmass_EUMETSAT",
+    "night_hours": [19, 5],
+    "twilight_hours": [5, 7, 17, 19]
+  }
+}

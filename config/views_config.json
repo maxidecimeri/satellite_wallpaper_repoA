@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GOES-19_Full-Disk_GeoColor",
+    "sat": "GOES-19 (East; 75.2W)",
+    "sec": "Full Disk",
+    "im": "GeoColor (CIRA)",
+    "num": "60",
+    "step": "10 min"
+  },
+  {
+    "name": "GOES-19_Full-Disk_Band-13_with_Quotes",
+    "sat": "GOES-19 (East; 75.2W)",
+    "sec": "Full Disk",
+    "im": "Band 13: 10.3 µm (\"Clean\" IR Longwave Window)",
+    "num": "60",
+    "step": "10 min"
+  },
+  {
+    "name": "GOES-19_Full-Disk_Airmass",
+    "sat": "GOES-19 (East; 75.2W)",
+    "sec": "Full Disk",
+    "im": "Airmass (EUMETSAT)",
+    "num": "60",
+    "step": "10 min"
+  }
+]

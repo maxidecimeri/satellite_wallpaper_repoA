@@ -1,0 +1,25 @@
+{
+  "defaults": {
+    "fps": 2.0,
+    "hold_last_sec": 30,
+    "clean_materials": false,
+    "stage_only": false,
+    "hold_mode": "hardlink",
+    "live_monitor_index": 2   
+  },
+  
+  "views": {
+    "GOES-19_East_752W_Full_Disk_GeoColor_CIRA": {
+      "fps": 2.0,
+      "hold_last_sec": 30
+    },
+    "GOES-19_East_752W_Full_Disk_Band_13_103_mm_Clean_IR_Longwave_Window": {
+      "fps": 2.0,
+      "hold_last_sec": 20
+    },
+    "GOES-19_East_752W_Full_Disk_Airmass_EUMETSAT": {
+      "fps": 1.5,
+      "hold_last_sec": 45
+    }
+  }
+}

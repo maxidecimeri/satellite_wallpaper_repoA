@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+satellite-wallpaper-env/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration
+config_local.json
+
+# Cached data
+*.cache
+*.tmp
+
+# Wallpaper Engine specific
+wallpaper_daemon.pid
+
+# Local static wallpapers
+static_backgrounds/
+
+#past versions
+Archive/
